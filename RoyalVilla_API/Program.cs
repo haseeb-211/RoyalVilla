@@ -83,8 +83,8 @@ foreach (var description in builderProvider.ApiVersionDescriptions)
                 Description = displayName,
                 Contact = new OpenApiContact
                 {
-                    Name = "Bhrugen Patel",
-                    Email = "hello@dotnetmastery.com"
+                    Name = "Haseeb Mohamed",
+                    Email = "haseebmohamed270@gmail.com"
                 }
             };
 
